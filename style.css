@@ -1,0 +1,25 @@
+body{
+    background-color: powderblue;
+    
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    
+   
+}
+
+h1{
+    color: black;
+    font-size: 200%;
+    border: 5px solid purple;
+    padding-left: 10px;
+    padding-bottom: 20px;
+    margin-top: 70px;
+
+}
+
+p{
+    color: chocolate;
+    font-size: 200%;
+    border: 4px double crimson;
+    padding:20px;
+    margin-top: 70px;
+}
